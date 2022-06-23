@@ -11,7 +11,7 @@ class PretrainedFromWandbMixin:
         """
         Initializes from a wandb artifact or delegates loading to the superclass.
         """
-        super(PretrainedFromWandbMixin, cls).from_pretrained(
+        return super(PretrainedFromWandbMixin, cls).from_pretrained(
                 pretrained_model_name_or_path, *model_args, **kwargs
             )
         # with tempfile.TemporaryDirectory() as tmp_dir:  # avoid multiple artifact copies
