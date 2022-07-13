@@ -1,8 +1,16 @@
 # DALL·E Mini
 
+This repo was updated: July 13, 2022
+
 Run DALL-E Mini/Craiyon in a Gradient Notebook!
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/variational-autoencoder-vae/blob/main/Variational_Autoencoder_fashion_mnist.ipynb)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rqp79qk71cep1zn)
+
+To launch DALL-E Mini with Gradient, use this repo as the "Workspace URL" in the advanced options of the Notebook Create page.
+
+Then use the following Docker tag as the "Container name"
+
+paperspace/gradient-base:tf29-pt112-jax0314-py39-2022-07-12
 
 ---
 
