@@ -10,7 +10,7 @@ To launch DALL-E Mini with Gradient, use this repo as the "Workspace URL" in the
 
 Then use the following Docker tag as the "Container name"
 
-paperspace/gradient-base:tf29-pt112-jax0314-py39-2022-07-12
+paperspace/gradient-base:pt112-tf29-jax0314-py39
 
 ---
 
