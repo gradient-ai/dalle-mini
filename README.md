@@ -4,7 +4,7 @@ This repo was updated: July 13, 2022
 
 Run DALL-E Mini/Craiyon in a Gradient Notebook!
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rqp79qk71cep1zn)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/r9xxyd0pguepnvl?file=%2FDALL-E-Mini-inference-pipeline.ipynb)
 
 To launch DALL-E Mini with Gradient, use this repo as the "Workspace URL" in the advanced options of the Notebook Create page.
 
