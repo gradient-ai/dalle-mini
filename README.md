@@ -1,6 +1,6 @@
 # DALL·E Mini
 
-This repo was updated: July 13, 2022
+This repo was updated: Aug 22, 2022
 
 Run DALL-E Mini/Craiyon in a Gradient Notebook! This repo is the companion to the blogpost on DALL-E Mini, you can read the article by [clicking here.](https://blog.paperspace.com/dalle-mini/)
 
